@@ -9,7 +9,7 @@ source code for selenium automation project
 
 ==========================================================================
 
-chrome details - Version 101.0.4951.67 (Official Build) (64-bit)
-selenium - WebDriver using Java libraries
+- chrome details - Version 101.0.4951.67 (Official Build) (64-bit)
+- selenium - WebDriver using Java libraries
 
 ==========================================================================
