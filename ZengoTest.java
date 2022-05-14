@@ -8,7 +8,7 @@ public class ZengoTest {
 	
 	public static void main(String[] args) throws Exception {
 		
-			//initalizing chrome path & launching it 
+			//initalizing chrome driver path & launching it 
 			System.setProperty("webdriver.chrome.driver","C:\\Users\\OzShalem\\Documents\\selenium\\chromedriver.exe");
 			WebDriver zengoSite = new ChromeDriver();
 			
